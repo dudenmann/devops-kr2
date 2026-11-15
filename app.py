@@ -1,3 +1,4 @@
+# KR2: Dudnik
 import os
 import socket
 
